@@ -1,5 +1,5 @@
-## NAME:
-## REGISTER NO:
+## NAME:YUGABHARATHI M
+## REGISTER NO:212224230314
 ## DATE:
 ## EX NO: 01
 Implementation of Bayesian Networks
